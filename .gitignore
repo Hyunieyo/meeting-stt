@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# 녹음 파일 (실수로 올라가지 않게)
+*.m4a
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.webm
+*.mp4
+
+# 용어 목록 (사내 이름/용어가 들어갈 수 있음)
+용어.txt
+terms.txt

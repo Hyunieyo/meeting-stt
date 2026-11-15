@@ -1,0 +1,7 @@
+faster-whisper
+gradio
+# faster-whisper 1.2.x는 av 15+ 와 호환 안 됨 (metadata_errors 인자 제거됨)
+av==14.2.0
+# GPU(NVIDIA) 사용 시
+nvidia-cublas-cu12
+nvidia-cudnn-cu12>=9,<10
